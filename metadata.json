@@ -1,0 +1,6 @@
+{
+  "name": "Forever January 23 - Birthday Surprise & Memory Lane",
+  "description": "An interactive, romantic birthday surprise for your girlfriend featuring a nostalgic memory lane slideshow, personalized digital surprise box, scratch coupons, interactive cake, and live admin management ready for Netlify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
